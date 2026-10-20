@@ -1,7 +1,7 @@
 {
-  "version": "0.4.9",
-  "installer_url": "https://github.com/Doka123/omega-ai-updates/releases/download/v0.4.9/OmegaAI_Setup_v0.4.9.exe",
-  "sha256": "48ae51375dfd020c2a3cc512de2b57d9b692d24bfd930313c4a84fd881700f03",
-  "size": 1495597018,
-  "signature": "niz3BWhTj3XnzJ5KktWmMymJZ4D4LWogtyGRG+d0OBr2tV2OiJ1AIcHjmxCC2buLUUvKPhdrE8/xH3vB+IA4AA=="
+  "version": "0.4.10",
+  "installer_url": "https://github.com/Doka123/omega-ai-updates/releases/download/v0.4.10/OmegaAI_Setup_v0.4.10.exe",
+  "sha256": "94dc0e0122550a525d46caba45175688ed6cfdd35c26d04b584ff53740e0e96a",
+  "size": 1495883758,
+  "signature": "WQsocxinqybZQkBee/ES+Z58JwxQcaKtUMOjTiUJ+EFBad+pT91my/LdclYRJB3zzr4TKI45SQQBzRz857gFAA=="
 }
